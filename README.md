@@ -1,13 +1,14 @@
-# Amazon Clone
+# 🛒 Amazon Clone
 
-A frontend Amazon-inspired website built using HTML and CSS.
+A frontend Amazon-inspired website built using HTML and CSS as a practice project.
 
-## 🚀 Features
+## ✨ Features
 
-- Responsive navigation bar
+- Amazon-inspired homepage
+- Navigation bar
 - Product sections
-- Amazon-inspired layout
-- Clean and simple UI
+- Clean frontend layout
+- Styled using CSS
 
 ## 🛠️ Technologies
 
@@ -16,12 +17,19 @@ A frontend Amazon-inspired website built using HTML and CSS.
 
 ## 🌐 Live Demo
 
-[View Live Project](YOUR-LIVE-LINK)
+[View Live Amazon Clone](https://zaimacodes.github.io/amazon-clone/)
 
 ## 📚 What I Learned
 
-- HTML page structure
-- CSS layouts
-- Flexbox
-- Website styling
-- Responsive design
+- Building webpages with HTML
+- Creating layouts with CSS
+- Using Flexbox
+- Styling navigation and product sections
+- Improving frontend development skills
+
+## 👨‍💻 Author
+
+**Zaimacodes**
+
+GitHub: [@zaimacodes](https://github.com/zaimacodes) 
+ 
